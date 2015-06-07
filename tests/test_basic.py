@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from .context import skeleton
+from .context import my_module
 
 import unittest
 

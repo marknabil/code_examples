@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# skeleton documentation build configuration file, created by
+# my_module documentation build configuration file, created by
 # sphinx-quickstart on Fri Jan 15 12:10:30 2013.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'skeleton'
+project = u'my_module'
 copyright = u'2013, Chris Streeter'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -183,7 +183,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'skeleton.tex', u'Skeleton Documentation',
+  ('index', 'my_module.tex', u'my_module Documentation',
    u'Chris Streeter', 'manual'),
 ]
 
@@ -213,7 +213,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'skeleton', u'Skeleton Documentation',
+    ('index', 'my_module', u'my_module Documentation',
      [u'Chris Streeter'], 1)
 ]
 
@@ -227,8 +227,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'skeleton', u'Skeleton Documentation',
-   u'Chris Streeter', 'skeleton', 'One line description of project.',
+  ('index', 'my_module', u'my_module Documentation',
+   u'Chris Streeter', 'my_module', 'One line description of project.',
    'Miscellaneous'),
 ]
 

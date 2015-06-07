@@ -1,7 +1,8 @@
 Python Module Skeleton
 ======================
 
-This represents a sample Python module skeleton used to help assist in making Python projects more easily.
+This is an adaptation of a sample Python module `skeleton`_
+used to help assist in making Python projects more easily.
 
 Usage
 -----
@@ -15,3 +16,4 @@ Uses the `MIT`_ license.
 
 
 .. _MIT: http://opensource.org/licenses/MIT
+.. _skeleton: https://github.com/streeter/python-skeleton
